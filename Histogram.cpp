@@ -1,8 +1,4 @@
-#include<iostream>
-#include<stack>
-#include<vector>
-#include<algorithm>
-#include<climits>
+
 using namespace std;
 int histogram(vector<int> &arr) {
     int n = arr.size();
